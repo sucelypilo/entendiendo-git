@@ -15,3 +15,4 @@ end
 end
 
 print "Mi nuevo tema en vscode es lila y me encanta!"
+print "Solo no me gusta mucho el color de en la terminal, pero es un detalle menor."
