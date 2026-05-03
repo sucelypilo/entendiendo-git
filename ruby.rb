@@ -20,3 +20,4 @@ print "Me gusta mucho el color lila en mi tema de vscode, creo que Ruby y el lia
 print "Solo no me gusta mucho el color de en la terminal, pero es un detalle menor."
 print "En general, estoy muy satisfecho con mi nuevo tema y lo recomendaría a otros que busquen un cambio de apariencia en su editor de código."
 print "Ruby con el tema lila es muy girlie, lo amo!"
+print "¡Esto es para probar hot fix en GitHub!"
