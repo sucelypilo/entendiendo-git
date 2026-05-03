@@ -15,3 +15,4 @@ end
 end
 
 print "Mi nuevo tema en vscode es lila y me encanta!"
+print "¡Estoy aprendiendo Git con Ruby!"
